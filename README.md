@@ -2,19 +2,19 @@
 
 Data Encryption Standard
 
-# 语言 & 环境
+# Language & Environment
 
-（1）语言
+（1）Language
 
      Python
      
-（2）环境
+（2）Environment
 
      Python版本：python 3.7
      
-     Python工具：PyCharm Professional
+     Python工具：PyCharm Professional 2018
      
-# 操作流程
+# Operation process
 
 （1）在 < text.txt > 文件中读取需要加密的文本
 
