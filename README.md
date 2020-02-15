@@ -1,6 +1,6 @@
-# My-Des
+# Symmetric Key Encryption DES
 
-Symmetric Key Encryption ~~ Des
+Data Encryption Standard
 
 # 语言 & 环境
 
