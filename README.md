@@ -23,3 +23,9 @@ Data Encryption Standard
 （3）在 < ciphertext.txt > 文件中写入DES加密、Base64编码后的数据
 
 （4）在 < plaintext.txt > 文件中写入Base64解码、DES解密后的数据
+
+# Detailed Description
+
+```
+https://qftm.github.io/2019/04/26/%E5%AF%B9%E7%A7%B0%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95-Des/
+```
