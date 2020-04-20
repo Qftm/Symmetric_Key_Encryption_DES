@@ -27,5 +27,5 @@ Data Encryption Standard
 # Detailed Description
 
 ```
-https://qftm.github.io/2019/04/26/%E5%AF%B9%E7%A7%B0%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95-Des/
+https://qftm.github.io/2019/04/26/Symmetric-Key-Encryption-DES/
 ```
